@@ -49,7 +49,7 @@ function Play() {
 
   return (
     <div className="Play">
-      <form action="http://localhost:3000/home">
+      <form action="/home">
       <button  id="back" type="submit">Go back</button>
       </form>
       <div className="holder2">
