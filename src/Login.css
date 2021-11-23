@@ -1,0 +1,11 @@
+.Login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.Login input {
+  width: 500px;
+  height: 30px;
+}
